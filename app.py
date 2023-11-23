@@ -8,7 +8,7 @@ import seaborn as sb
 def main ():
     df = pd.read_csv('./data/fuel_econ.csv')
 
-    st.header('자동차 데이터 프레임 분석')
+    st.header('자동차 데이터 분석~')
 
 
 
